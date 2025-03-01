@@ -5,7 +5,9 @@
 1. [Requirements](#requirements)
 2. [Installation Steps](#installation)
 3. [Troubleshooting](#troubleshooting)
-4. [License](#license)
+4. [Uninstallation](#uninstallation)
+5. [Additional Resources](#add_resources)
+6. [License](#license)
 
 ## Requirements
 
